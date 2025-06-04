@@ -1,12 +1,7 @@
-import Header from "@/components/layout/Header";
+import React from 'react'
 
-export default function Home() {
+export default function index() {
   return (
-    <>
-      <Header />
-      <div className="flex flex-col items-center justify-center h-screen">
-        <h1 className="text-4xl font-bold">Hello World</h1>
-      </div>
-    </>
-  );
+    <div>Home page</div>
+  )
 }
