@@ -1,5 +1,5 @@
 import Button from "@/components/common/Button";
-import Card from "@/components/common/card";
+import Card from "@/components/common/Card";
 import PostModal from "@/components/common/PostModal"
 import Header from "@/components/layout/Header";
 import { useState } from "react";
