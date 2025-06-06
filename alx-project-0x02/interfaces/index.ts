@@ -13,6 +13,7 @@ export interface ButtonProps {
     size: "small" | "medium" | "large";
     shape: "rounded-sm" | "rounded-md" | "rounded-lg";
     text: string;
+    Background:string; 
     onClick?: () => void;
 
     }

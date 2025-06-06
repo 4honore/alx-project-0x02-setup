@@ -85,13 +85,13 @@ const PostModal: React.FC<PostModalProps> = ({ onClick }) => {
               size="small"
               shape="rounded-md"
               text="Submit"
-              background="font-medium text-white bg-blue-600 hover:bg-blue-700 "
+              Background="font-medium text-white bg-blue-600 hover:bg-blue-700 "
             />
             <Button
               size="medium"
               shape="rounded-md"
               text="Cancel"
-              background="bg-gray-100 hover:bg-gray-200 text-gray-700"
+              Background="bg-gray-100 hover:bg-gray-200 text-gray-700"
               onClick={onClick}
             />
           </div>
