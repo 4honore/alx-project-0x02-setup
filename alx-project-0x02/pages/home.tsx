@@ -30,7 +30,7 @@ export default function homePage() {
                 />
                 {isPostModel && (
                     <div className="fixed top-0 w-full h-black bg-opacity-50 flex items-center justify-center z-50">
-                        <PostModal onClick={handleCloseModel} />
+                        <PostModal onClick={handleClose} />
                     </div>
                 )}
             </div>
