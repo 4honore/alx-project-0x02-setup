@@ -25,7 +25,7 @@ export default function homePage() {
                 size="large"
                 shape="rounded-sm"
                 text="add card"
-                background="bg-blue-600 text-white"
+                Background="bg-blue-600 text-white"
                 onClick={handleButtonclick}
                 />
                 {isPostModel && (

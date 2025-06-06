@@ -11,19 +11,19 @@ const AboutPage = () => {
             size="small"
             shape="rounded-sm"
             text="add card"
-            background="bg-blue-600 text-white"
+            Background="bg-blue-600 text-white"
             />
             <Button
             size="medium"
             shape="rounded-md"
             text="add card"
-            background="bg-blue-600 text-white" 
+            Background="bg-blue-600 text-white" 
             />
             <Button
             size="large"
             shape="rounded-lg"
             text="add card"
-            background="bg-blue-600 text-white"
+            Background="bg-blue-600 text-white"
             />
             
             </div>
